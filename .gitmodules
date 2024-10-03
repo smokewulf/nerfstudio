@@ -1,0 +1,3 @@
+[submodule "humanrf"]
+	path = humanrf
+	url = https://github.com/synthesiaresearch/humanrf.git
