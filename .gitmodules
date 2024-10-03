@@ -1,3 +1,12 @@
 [submodule "humanrf"]
 	path = humanrf
 	url = https://github.com/synthesiaresearch/humanrf.git
+[submodule "rene"]
+	path = rene
+	url = https://github.com/eyecan-ai/rene.git
+[submodule "nerf"]
+	path = nerf
+	url = https://github.com/bmild/nerf.git
+[submodule "multinerf"]
+	path = multinerf
+	url = https://github.com/google-research/multinerf.git
