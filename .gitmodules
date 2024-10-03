@@ -10,3 +10,27 @@
 [submodule "multinerf"]
 	path = multinerf
 	url = https://github.com/google-research/multinerf.git
+[submodule "nerf_pl"]
+	path = nerf_pl
+	url = https://github.com/kwea123/nerf_pl.git
+[submodule "gaussian-splatting"]
+	path = gaussian-splatting
+	url = https://github.com/graphdeco-inria/gaussian-splatting.git
+[submodule "humannerf"]
+	path = humannerf
+	url = https://github.com/chungyiweng/humannerf.git
+[submodule "FlexiCubes"]
+	path = FlexiCubes
+	url = https://github.com/nv-tlabs/FlexiCubes.git
+[submodule "volinga-model"]
+	path = volinga-model
+	url = https://github.com/Volinga/volinga-model.git
+[submodule "nerfshop"]
+	path = nerfshop
+	url = https://github.com/graphdeco-inria/nerfshop.git
+[submodule "instant-ngp"]
+	path = instant-ngp
+	url = https://github.com/NVlabs/instant-ngp.git
+[submodule "ConvNeRF"]
+	path = ConvNeRF
+	url = https://github.com/HaiminLuo/ConvNeRF.git
